@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(229, 228, 225);
+}
+.huree {
+  background-color: white;
+  width: 360px;
+  border-radius: 16px;
+  padding: 20px 20px;
+  font-family: sans-serif;
+  margin: auto;
+  margin-top: 200px;
+}
+input {
+  display: block;
+  width: 342px;
+  padding: 6px;
+  margin: 10px 0px;
+}
+.bt {
+  width: 360px;
+  padding: 12px;
+  color: white;
+  background-color: rgb(49, 116, 205);
+  border-radius: 10px;
+  margin: 10px 0px;
+}
+.repass {
+  font-size: 14px;
+}
